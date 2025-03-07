@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I´m Miguel Pardo 👋</h1>
+</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-P4rdo/M-P4rdo/master/M-P4rdo.Banner.png" width="800">
+</p>
+
+
 
 <!--
 **M-P4rdo/M-P4rdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
