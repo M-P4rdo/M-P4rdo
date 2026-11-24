@@ -1,17 +1,22 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/M-P4rdo/M-P4rdo/master/M-P4rdo_Banner.png" width="800">
 </p>
-<div align="center">
-<h1 align="center">Hi, I´m Miguel!</h1>
-</div>
 
-## About me :
-👨‍💻 Software development student constantly learning.  
-☁️ Exploring the world of Cloud Computing with Azure.  
-🐍 Developing skills in Python, C# and Bash for automation.  
-🎯 My goal is to specialize in cloud architectures.
+<h1 align="center">¡Hola, soy Miguel! 👋</h1>
+<p align="center"><b>Backend Developer (Python · FastAPI) · Cloud · RPA & Machine Learning</b><br>Medellín, Colombia 🇨🇴</p>
 
-## Tech Stack :
+<p align="center"><a href="#-english-version">🇬🇧 English version below</a></p>
+
+## 👨‍💻 Sobre mí
+
+Desarrollador backend enfocado en construir **APIs, automatizaciones (RPA) y soluciones de datos** que resuelven problemas reales de negocio.
+
+- 🐍 Construyo servicios y APIs con **Python y FastAPI**, conectados a PostgreSQL y MongoDB.
+- 🤖 Automatizo procesos empresariales de punta a punta: conciliaciones, reportes, integraciones entre sistemas y descargas desde portales web.
+- 📈 Desarrollo **modelos de pronóstico** y plataformas analíticas con frontend en Angular.
+- ☁️ Despliego con **Docker** y servicios cloud, buscando arquitecturas limpias y mantenibles.
+
+## 🛠️ Stack
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -32,22 +37,3 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
 </p>
-
-
-
-
-
-<!--
-**M-P4rdo/M-P4rdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
